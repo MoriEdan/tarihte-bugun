@@ -15,4 +15,4 @@ Wordpress tarihte bugün widget eklentisi
 	- 1.0.0 İlk Versiyon
 
 ## İletişim
-	- Mail: [theaikoss(at)gmail(dot)com][]
+	- Mail: [theaikoss(at)gmail(dot)com]()
